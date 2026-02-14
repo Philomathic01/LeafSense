@@ -1,6 +1,6 @@
 import numpy as np
 import joblib
-from src.features import extract_features
+from features import extract_features
 
 def load_bundle(model_path: str):
     return joblib.load(model_path)
