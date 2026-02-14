@@ -1,0 +1,17 @@
+{
+  "Healthy": {
+    "symptoms": "No visible infection spots.",
+    "actions": ["Keep monitoring leaves weekly."],
+    "prevention": ["Avoid overwatering and improve airflow."]
+  },
+  "EarlyBlight": {
+    "symptoms": "Brown spots with concentric rings; yellowing leaves.",
+    "actions": ["Remove heavily infected leaves.", "Use recommended fungicide if needed."],
+    "prevention": ["Crop rotation; avoid wet foliage at night."]
+  },
+  "LateBlight": {
+    "symptoms": "Dark water-soaked lesions; fast spread in humid weather.",
+    "actions": ["Isolate affected plants.", "Apply recommended control measures quickly."],
+    "prevention": ["Good spacing; avoid overhead irrigation."]
+  }
+}
