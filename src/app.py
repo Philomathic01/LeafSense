@@ -7,7 +7,7 @@ import cv2
 from PIL import Image
 import streamlit as st
 
-from src.predict import load_bundle, predict_bgr
+from predict import load_bundle, predict_bgr
 
 APP_TITLE = "LeafSense: Potato Disease Recognition (SVM + Image Features)"
 
