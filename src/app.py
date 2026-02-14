@@ -16,7 +16,7 @@ MODEL_PATH = Path("artifacts/model_pipeline.joblib")
 # ✅ After you create a GitHub Release, paste the direct asset URL here:
 # Example:
 # https://github.com/Philomathic01/LeafSense/releases/download/v1.0/model_pipeline.joblib
-MODEL_URL = ""  # <-- paste release URL later
+MODEL_URL = "https://github.com/Philomathic01/LeafSense/releases/download/v1.0/model_pipeline.joblib"  # <-- paste release URL later
 
 ADVICE_PATH = Path("disease_advice.json")
 
